@@ -1,0 +1,3 @@
+[submodule "Projects/series-tracker"]
+	path = Projects/series-tracker
+	url = git@github.com:erayaydin/series-tracker.git
