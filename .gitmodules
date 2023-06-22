@@ -1,3 +1,6 @@
 [submodule "Projects/series-tracker"]
 	path = Projects/series-tracker
 	url = git@github.com:erayaydin/series-tracker.git
+[submodule "Projects/Pixl"]
+	path = Projects/Pixl
+	url = git@github.com:erayaydin/pixl.git
