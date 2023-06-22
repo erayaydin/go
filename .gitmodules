@@ -4,3 +4,6 @@
 [submodule "Projects/Pixl"]
 	path = Projects/Pixl
 	url = git@github.com:erayaydin/pixl.git
+[submodule "Projects/MGrep"]
+	path = Projects/MGrep
+	url = git@github.com:erayaydin/mgrep.git
