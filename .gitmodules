@@ -7,3 +7,6 @@
 [submodule "Projects/MGrep"]
 	path = Projects/MGrep
 	url = git@github.com:erayaydin/mgrep.git
+[submodule "Projects/MailingList"]
+	path = Projects/MailingList
+	url = git@github.com:erayaydin/mailing-list.git
